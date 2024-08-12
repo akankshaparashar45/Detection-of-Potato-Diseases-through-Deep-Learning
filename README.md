@@ -7,3 +7,5 @@ A deep learning model is created for the early detection of diseases like early 
 * Data Dugmentation
 # Model Building
 Using Keras, TensorFlow, and Convolutional Neural Network (CNN)
+# Python Notebook
+Code is available in the attached python notebook i.e., training.ipynb
